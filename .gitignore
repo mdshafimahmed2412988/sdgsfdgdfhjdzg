@@ -1,0 +1,7 @@
+# Keep credentials out of the repo
+db.php
+
+# OS files
+.DS_Store
+Thumbs.db
+.env
